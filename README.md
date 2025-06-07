@@ -12,11 +12,14 @@ and make analysis thereto to give an informed decisions to all stakeholders in t
 The primary source of data used for this project is an open source that can be downloaded from free data websites like kaggle or fred or any other data repository files.
 
 ### Tools Used
-- Microsoft Excel
+- Microsoft Excel [Download here](https://Microsoft.com)
   - For Data collection
   - For Data cleaning
     1. data Manipulation
     2. data Mulching
+       
 - SQL server (for querying and analysis)
+  
 - Power BI (for creating a report)
+
 - Microsoft Power Point (for presentation)
