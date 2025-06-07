@@ -20,5 +20,20 @@ from free data websites like kaggle or fred or any other data repository files.
     2. data Mulching
        
 - SQL server (for querying and analysis)
-- Power BI (for creating a report)
+- Power BI (for creating a report)[download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - Microsoft Power Point (for presentation)
+
+### Data Cleaning and Preparation
+In the initial phase of the data cleaning and preparation, we performed the following actions;
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+
+### Exploratory Data Analysis
+EDA involves the exploring of the data to answer questions such as:
+- What is the overall sals trend?
+- Which product are top sellers?
+- What are the products on peak sales?
+
+### Data Analysis
+This is where we include some basic lines of code or queries or even some of the DAX expression used during or analysis.
