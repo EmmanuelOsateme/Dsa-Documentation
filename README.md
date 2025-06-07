@@ -13,21 +13,21 @@ The primary source of data used for this project is an open source that can be d
 from free data websites like kaggle or fred or any other data repository files.
 
 ### Tools Used
-- Microsoft Excel [Download here](https://Microsoft.com)
+- **Microsoft Excel** *[download here](https://Microsoft.com)*
   - For Data collection
   - For Data cleaning
     1. data Manipulation
     2. data Mulching
        
-- SQL server (for querying and analysis)
-- Power BI (for creating a report)[download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
-- Microsoft Power Point (for presentation)
+- **SQL server** (for querying and analysis)
+- **Power BI** (for creating a report) *[download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)*
+- **Microsoft Power Point** (for presentation) *[download here](https://Microsoft.com)*
 
 ### Data Cleaning and Preparation
 In the initial phase of the data cleaning and preparation, we performed the following actions;
-1. Data loading and Inspection
-2. Handling missing variables
-3. Data cleaning and formatting
+1. **Data loading and Inspection**
+2. **Handling missing variables**
+3. **Data cleaning and formatting**
 
 ### Exploratory Data Analysis
 EDA involves the exploring of the data to answer questions such as:
