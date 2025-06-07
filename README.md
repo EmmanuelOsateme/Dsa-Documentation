@@ -43,3 +43,9 @@ SELECT A, B, C
 WHERE A > 15
 
 ```
+
+### Analysis
+![Screenshot_20250607-123159](https://github.com/user-attachments/assets/f5ffc184-32db-490c-99d7-366348d9a5bf)
+
+![Screenshot_20250607-123216](https://github.com/user-attachments/assets/6545738e-9365-470c-8ffc-30dc44520757)
+
